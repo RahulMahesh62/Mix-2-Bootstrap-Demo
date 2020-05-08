@@ -9,12 +9,52 @@ h1 {
     line-height: 1.5;
 }
 
+.container-fluid {
+    padding: 3% 15%;
+}
+
 #mix {
-    width: 600px;
-    height: 600px;
+    width: 70%;
+    padding-left: 30px;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
     font-weight: bold;
 }
 
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.lbtn {
+    margin: 5% 3% 5% 0;
+}
+
+.rrow {
+    margin: 130px 0 0 15px;
+}
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+h3 {
+    font-family: 'Montserrat-bold';
+}
+
+p {
+    color: #8f8f8f;
+}
