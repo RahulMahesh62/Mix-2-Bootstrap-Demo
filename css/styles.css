@@ -44,6 +44,11 @@ h1 {
 
 .rrow {
     margin: 130px 0 0 15px;
+    text-align: center;
+}
+
+.lrow {
+    text-align: center;
 }
 
 #features {
