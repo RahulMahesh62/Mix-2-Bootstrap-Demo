@@ -106,7 +106,7 @@ i:hover {
 }
 
 .carousel-item {
-    padding: 7% 15% ;
+    padding: 7% 15%;
 }
 
 #pricing {
@@ -114,8 +114,6 @@ i:hover {
     text-align: center;
 }
 
-#pricing 
-
-.pricol {
+#pricing .pricol {
     padding: 3% 2%;
 }
