@@ -18,8 +18,7 @@ h1 {
 }
 
 #mix {
-    width: 70%;
-    padding-left: 30px;
+    width: 50%;
 }
 
 .navbar {
@@ -121,4 +120,38 @@ i:hover {
 
 #pricing .pricol {
     padding: 3% 2%;
+}
+
+#cta {
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 5% 15%;
+}
+
+#cta h3 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+
+.ctabtn {
+    margin-top: -50px;
+}
+
+.fticons i {
+    margin-right: 20px;
+    color: #fff;
+}
+
+.fticons a {
+    text-decoration: none;
+}
+
+#footer {
+    padding: 2% 1%;
+    background-color: black;
+    text-align: center;
+}
+
+#footer p {
+    color: white;
 }
