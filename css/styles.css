@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 #title {
     background-color: #fff;
     color: #000000;
@@ -96,10 +100,11 @@ i:hover {
     padding-bottom: 3%;
 }
 
-#press img {
-
+.plogo {
+    width: 15%;
+    margin: 20px 20px 50px;
 }
 
-.plogo {
-    
+.carousel-item {
+    padding: 7% 15% ;
 }
